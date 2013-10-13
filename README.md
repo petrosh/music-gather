@@ -20,9 +20,11 @@ Platforms
 
 ### Social
 
+- **[facebook SME](https://www.facebook.com/sonormusiceditions)**
+- **[facebook ebed](https://developers.facebook.com/docs/plugins/embedded-posts/) – Posts**  
+
 - [twitts embed](https://dev.twitter.com/docs/embedded-tweets)
 - [twitter page](https://twitter.com/ArmagideonTimes)
-- **[facebook](https://developers.facebook.com/docs/plugins/embedded-posts/) – Posts**
 
 
 Services
