@@ -18,10 +18,12 @@ Platforms
 
 - **[bandcamp page](http://syntheticshadows.bandcamp.com/album/diaframma-live-1983-ss06) – Palyer, Share**
 
-### Social
+### Facebook
 
 - **[facebook SME](https://www.facebook.com/sonormusiceditions)**
 - **[facebook ebed](https://developers.facebook.com/docs/plugins/embedded-posts/) – Posts**  
+
+### Twitter
 
 - [twitts embed](https://dev.twitter.com/docs/embedded-tweets)
 - [twitter page](https://twitter.com/ArmagideonTimes)
